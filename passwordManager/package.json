@@ -1,0 +1,17 @@
+{
+  "name": "passwords",
+  "version": "1.0.0",
+  "description": "The Udemy Password Manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Brooks Roley",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^3.1.6",
+    "node-persist": "0.0.6",
+    "yargs": "^3.15.0"
+  }
+}
